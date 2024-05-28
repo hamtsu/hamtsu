@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/456927565689389056)](https://discord.com/users/456927565689389056)
+[![ethan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hamtsu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
